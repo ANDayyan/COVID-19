@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+.bg1{
+    background-color: #f2f3f4;
+}
+.container{
+    width: 100%;
+    max-width: 100%;
+}
+.illustraion{
+    width: 100%;
+}
+.icon{
+    width: 100%;
+}
